@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">status-alunos</string>
+    <string name="app_name">Status Alunos</string>
+    <string name="start">Iniciar</string>
 </resources>
