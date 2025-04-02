@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Status Alunos</string>
     <string name="start">Iniciar</string>
+    <string name="nota1">Nota 1:</string>
+    <string name="nota2">Nota 2:</string>
+    <string name="media">Média:</string>
+    <string name="input">Digite aqui</string>
+    <string name="aluno">Aluno:</string>
+
+    <string-array name="alunos">
+        <item>Arthur Alexandre</item>
+        <item>Artur Tunu</item>
+        <item>Igor Rozendo</item>
+        <item>Kayque Sanmartin</item>
+        <item>Thayane Nunes</item>
+    </string-array>
 </resources>
